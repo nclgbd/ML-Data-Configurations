@@ -1,6 +1,4 @@
+['remote "remote"']
+url = https://github.com/nclgbd/ML-Data-Configurations.git
 [core]
-    remote = storage
-['remote "myremote"']
-    url = s3://dvc-public/remote/cml_example
-['remote "storage"']
-    url = s3://mybucket/dvcstore
+remote = remote
