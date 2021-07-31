@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = storage
 ['remote "myremote"']
     url = s3://dvc-public/remote/cml_example
+['remote "storage"']
+    url = s3://mybucket/dvcstore
