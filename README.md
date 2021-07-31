@@ -2,7 +2,7 @@
 Contains a template for how to expect data to be laid out.
 
 # Configuration Setup:
-```json
+```javascript
 {
     // json object containing the different configurations
     "avail_configs": { 
