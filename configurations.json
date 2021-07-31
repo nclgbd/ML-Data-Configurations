@@ -1,0 +1,28 @@
+{
+    "avail_configs": {
+        "cat_or_dog": {
+            "classes": [
+                "cats",
+                "dogs"
+            ],
+            "format": {
+                "num_of_classes": 2,
+                "sort_by": "cat_or_dog"
+            }
+        },
+        "configuration2": {
+            "classes": [
+                "class1",
+                "class2"
+            ],
+            "format": {
+                "num_of_classes": 2,
+                "sort_by": "tag_name1"
+            }
+        }
+    },
+    "avail_tags": [
+        "cat_or_dog",
+        "tag2"
+    ]
+}
