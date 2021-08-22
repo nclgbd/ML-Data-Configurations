@@ -1,0 +1,4 @@
+outs:
+- md5: ffd1f78f370cd326abd8e2513b429510
+  size: 590468
+  path: test_data.zip
